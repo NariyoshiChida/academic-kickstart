@@ -1,3 +1,4 @@
+draft: true
 +++
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
