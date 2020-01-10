@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 0
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -29,7 +29,17 @@ subtitle = ""
     category = ""
     publication_type = ""
     exclude_featured = false
-  
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Neural Networks and Deep Learning"
+  url = ""
+  certificate_url = "https://www.coursera.org"
+  date_start = "2018-10-01"
+  date_end = ""
+  description = ""
+
 [design]
   # Toggle between the various page layout types.
   #   1 = List
