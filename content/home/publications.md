@@ -69,3 +69,7 @@ subtitle = ""
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
+
+{{% alert note %}}
+Publication list is [here]({{< ref "/publication_list/index.html" >}}).
+{{% /alert %}}
