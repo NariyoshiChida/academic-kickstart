@@ -4,7 +4,7 @@ authors:
 - admin
 - Kimio Kuramitsu
 date: "2016-11-01T00:00:00Z"
-doi: "10.2197/ipsjjip.25.975"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2016-11-01T00:00:00Z"
