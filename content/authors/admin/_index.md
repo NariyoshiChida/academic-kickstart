@@ -14,7 +14,7 @@ role: Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: NTT Social Informatics Laboratories
+- name: NTT Social Informatics Laboratories 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
